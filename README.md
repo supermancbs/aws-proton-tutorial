@@ -3,6 +3,7 @@
 #### What is Proton?
 [Proton](https://aws.amazon.com/proton/) is a fully managed AWS service that helps engineering platform teams build developer portals to streamline the SDLC (software development lifecycle). Proton has two main goals: increase developers' productivity and agility while allowing organizations to maintain the right level of control and governance. 
 
+
 #### Who are the Proton customers? 
 Proton has two main actors:
 - the platform admin: responsible for authoring application templates and everything in the DevOps spectrum that aims at removing undifferentiated heavy lifting for the developer
